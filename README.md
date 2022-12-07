@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Site de decoração de interiores" src="images/img1.jpeg" width="100%">
+  <img alt="Site de decoração de interiores" src="github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
